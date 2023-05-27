@@ -1,0 +1,197 @@
+/* .container{
+    display: flex;
+
+justify-content:space-between;
+flex-wrap: wrap;
+}
+.flex1{
+    background-color: blue;
+    height: 200px;
+    width: 500px;
+    color: white;
+
+} */
+/* .container{
+    background-color: red;
+    height: 200px;
+    width: 500px;
+}
+p{
+    line-height: 1.5;
+}
+.setImg{
+    background-image: url('3.png');
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+} */
+
+/* .one{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: relative;
+   z-index: 1;
+}
+.two{
+    background-color: red;
+    position:absolute;
+    height: 200px;
+    width: 200px;
+    z-index: 0;
+} */
+
+button{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    width: 150px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    transition: width 2s ;
+}
+button:hover{
+
+    width: 200px;
+}
+
+
+img{
+    height: 200px;
+    width: 200px;
+    transform: rotate(45deg);
+}
+.boxShadow{
+    height: 100px;
+    width: 200px;
+    background-color: red;
+    box-shadow: 2px 5px rgba(0, 0, 0, 0.5);
+}
+@media screen and (min-width:600px) {
+ button{
+    background-color: red;
+    width: 100%;
+ }
+ .boxShadow{
+    width: 100%;
+ }
+}
+
+
+/* //sherazafar148@GMIAL.COM` */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
